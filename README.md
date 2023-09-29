@@ -7,12 +7,13 @@
 ## Habilidades y Tecnologías
 
 **Lenguajes de Programación:**
-- HTML
-- CSS
-- JavaScript
-- React
-- Angular
-- C (nivel básico)
+- <span style="color: orange;">HTML</span>
+- <span style="color: yellow;">JavaScript</span>
+- <span style="color: green;">Node.js</span>
+- <span style="color: blue;">CSS</span>
+- <span style="color: white; background-color: blue;">React</span>
+- <span style="color: red;">Angular</span>
+- <span style="color: black;">C (nivel básico)</span>
 
 **Tecnologías Adicionales:**
 - Node.js
