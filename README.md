@@ -30,8 +30,8 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AxelRGDiaz&show_icons=true)
 
 ## Contacto
-- LinkedIn: [Tu perfil de LinkedIn](Enlace a tu perfil de LinkedIn)
-- Twitter: @AxelRGDiaz([Enlace a tu perfil de Twitter](https://twitter.com/AxelRGDiaz))
+- LinkedIn: Axel Diaz(linkedin.com/in/axel-diaz-647908293)
+- Twitter: @AxelRGDiaz(https://twitter.com/AxelRGDiaz)
 - Correo Electrónico: axelrgdiaz@gmail.com
 
 
