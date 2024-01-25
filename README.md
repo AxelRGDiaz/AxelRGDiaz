@@ -1,7 +1,9 @@
 # Axel Diaz.
 
 ## Acerca de Mí
-¡Hola! Soy Axel Diaz, un apasionado de la programación web y las tecnologias. Disfruto trabajando en proyectos personales. 
+¡Hola! Soy Axel Diaz, un estudiante apasionado de programación con sólidos conocimientos en JavaScript, Node.js y HTML.
+Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me impulsa a buscar oportunidades para contribuir a proyectos emocionantes. Estoy emocionado por continuar mi crecimiento en el fascinante mundo del desarrollo web. 💻
+
 ¡Bienvenido a mi perfil de GitHub!
 
 ## Habilidades y Tecnologías
@@ -9,10 +11,8 @@
 **Lenguajes de Programación:**
 - <span style="color: orange;">HTML</span>
 - <span style="color: yellow;">JavaScript</span>
-- <span style="color: green;">Node.js</span>
 - <span style="color: blue;">CSS</span>
 - <span style="color: white; background-color: blue;">React</span>
-- <span style="color: red;">Angular</span>
 - <span style="color: black;">C (nivel básico)</span>
 
 **Tecnologías Adicionales:**
@@ -30,8 +30,8 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AxelRGDiaz&show_icons=true)
 
 ## Contacto
-- LinkedIn: Axel Diaz(linkedin.com/in/axel-diaz-647908293)
-- Twitter: @AxelRGDiaz(https://twitter.com/AxelRGDiaz)
+- LinkedIn: Axel Diaz https://linkedin.com/in/axel-diaz-647908293
+- Twitter: @AxelRGDiaz https://twitter.com/AxelRGDiaz
 - Correo Electrónico: axelrgdiaz@gmail.com
 
 
