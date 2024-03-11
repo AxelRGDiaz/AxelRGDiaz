@@ -23,7 +23,7 @@ Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me
 
 
 ## Proyectos Destacados
-- [Nombre del Proyecto 1](Enlace al Proyecto 1): Breve descripción del proyecto.
+- [Monitoreo Ambiental](https://github.com/AxelRGDiaz/Monitoreo-Ambiental-con-IoT-y-MongoDB): Breve descripción del proyecto.
 - [Nombre del Proyecto 2](Enlace al Proyecto 2): Breve descripción del proyecto.
 
 ## Estadísticas de GitHub
