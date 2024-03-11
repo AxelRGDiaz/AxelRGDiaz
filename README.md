@@ -5,8 +5,7 @@
 Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me impulsa a buscar oportunidades para contribuir a proyectos emocionantes. Estoy emocionado por continuar mi crecimiento en el fascinante mundo del desarrollo web. 💻
 
 ¡Bienvenido a mi perfil de GitHub!
-<p> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&redirect=true) </p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&redirect=true)
+
 
 ## Habilidades y Tecnologías
 
@@ -34,6 +33,8 @@ Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me
 ## Contacto
 - LinkedIn: Axel Diaz https://linkedin.com/in/axel-diaz-647908293
 - Twitter: @AxelRGDiaz https://twitter.com/AxelRGDiaz
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&redirect=true)
 - Correo Electrónico: axelrgdiaz@gmail.com
 
 
