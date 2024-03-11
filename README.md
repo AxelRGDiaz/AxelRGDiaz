@@ -1,42 +1,22 @@
-# Axel Diaz.
-
-## Acerca de Mí
-¡Hola! Soy Axel Diaz, un estudiante apasionado de programación con sólidos conocimientos en JavaScript, Node.js y HTML.
-Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me impulsa a buscar oportunidades para contribuir a proyectos emocionantes. Estoy emocionado por continuar mi crecimiento en el fascinante mundo del desarrollo web. 💻
-
-¡Bienvenido a mi perfil de GitHub!
+<h1 align="center">Hi 👋, I'm Axel Diaz</h1>
+<h3 align="center">¡Hola! Soy Axel Diaz, un estudiante apasionado de programación con sólidos conocimientos en JavaScript, Node.js y HTML. Mi dedicación al aprendizaje continuo y la resolución creativa de problemas me impulsa a buscar oportunidades para contribuir a proyectos emocionantes. Estoy emocionado por continuar mi crecimiento en el fascinante mundo del desarrollo web. 💻</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&redirect=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelrgdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="axelrgdiaz" /> </p>
 
-## Habilidades y Tecnologías
+<p align="left"> <a href="https://twitter.com/axelrgdiaz" target="blank"><img src="https://img.shields.io/twitter/follow/axelrgdiaz?logo=twitter&style=for-the-badge" alt="axelrgdiaz" /></a> </p>
 
-**Lenguajes de Programación:**
-- <span style="color: orange;">HTML</span>
-- <span style="color: yellow;">JavaScript</span>
-- <span style="color: blue;">CSS</span>
-- <span style="color: white; background-color: blue;">React</span>
-- <span style="color: black;">C (nivel básico)</span>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/axelrgdiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axelrgdiaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/axel diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel diaz" height="30" width="40" /></a>
+<a href="https://instagram.com/axel.diazrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axel.diazrg" height="30" width="40" /></a>
+</p>
 
-**Tecnologías Adicionales:**
-- Node.js
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-**Habilidades en GitHub:**
-- Uso de comandos de Git y GitHub
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelrgdiaz&show_icons=true&locale=en&layout=compact" alt="axelrgdiaz" /></p>
 
-
-## Proyectos Destacados
-- [Monitoreo Ambiental](https://github.com/AxelRGDiaz/Monitoreo-Ambiental-con-IoT-y-MongoDB): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](Enlace al Proyecto 2): Breve descripción del proyecto.
-
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AxelRGDiaz&show_icons=true)
-
-## Contacto
-- LinkedIn: Axel Diaz https://linkedin.com/in/axel-diaz-647908293
-- Twitter: @AxelRGDiaz https://twitter.com/AxelRGDiaz
-- Correo Electrónico: axelrgdiaz@gmail.com
-
-
-¡Gracias por visitar mi perfil de GitHub!
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axelrgdiaz&show_icons=true&locale=en" alt="axelrgdiaz" /></p>
