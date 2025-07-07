@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/8kkleo.jpg" alt="funny meme" />
+<img align="right" style="height:30px;" src="https://i.imgflip.com/8kkleo.jpg" alt="funny meme" />
 
 ### 🧠 Tecnologías que uso
 
