@@ -19,16 +19,6 @@
 
 ---
 
-## 🎧 Escuchando ahora
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mjiq9pzc1vwlcooigvdbeaipq" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" height="160" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
-
 ## 🧠 Tech Stack
 
 **Frontend**
@@ -110,12 +100,6 @@
 ---
 
 ## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://readme-stats-omega-pink.vercel.app/api?username=axelrgdiaz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="165" />
-  &nbsp;
-  <img src="https://readme-stats-omega-pink.vercel.app/api/top-langs?username=axelrgdiaz&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF" height="165" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelRGDiaz&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" />
