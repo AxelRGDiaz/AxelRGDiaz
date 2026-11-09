@@ -1,100 +1,63 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Hola+%F0%9F%91%8B%2C+soy+Axel+D%C3%ADaz;Full+Stack+Developer+%F0%9F%9A%80;Building+cool+stuff+from+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+<a href="https://www.axel-diaz.com">
+  <img src="./assets/header.svg" alt="Axel Díaz — Full Stack Developer. Rails + Vue, Colima, México" width="100%" />
+</a>
 
-<br/>
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ¡Hola! Soy Axel, desarrollador full stack en Colima, México.    ║
+║  Trabajo con Ruby on Rails y Vue 3: APIs, colas con Sidekiq y    ║
+║  pantallas que la gente usa todos los días. Fuera del trabajo    ║
+║  hago apps nativas para Mac, herramientas para Windows y le      ║
+║  muevo a mi servidor casero.                                  ▼  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### ⚔️ Misiones
+
+| | Proyecto | Qué es | Stack |
+|:-:|---|---|---|
+| ★ | **[Plantelia](https://plantelia.axel-diaz.com)** | Control escolar para primarias y secundarias: asistencias con QR, calificaciones, expedientes y avisos a familias. Funciona sin internet. | Rails · Vue 3 · PostgreSQL · Sidekiq · PWA |
+| ◆ | **[NotchFlow](https://github.com/AxelRGDiaz/NotchFlow)** | El notch de la MacBook convertido en panel: música, calendario, tareas, bandeja con AirDrop y temporizador. | Swift 6 · SwiftUI |
+| ◆ | **[ClatuaTech Tools](https://github.com/AxelRGDiaz/clatuaTools)** | Navaja suiza para técnicos de Windows: instala programas con winget, diagnostica y repara el sistema desde una ventana. | Electron · React · TypeScript |
+| ◆ | **[Converter App](https://k8s.axel-diaz.com)** | Convierte video, audio, imágenes y documentos en cola; el avance llega en vivo al navegador. | Rails · Sidekiq · Turbo Streams · ffmpeg |
+| ◆ | **[axel-diaz.com](https://github.com/AxelRGDiaz/axelDiaz-webSite)** | Mi portafolio, hecho como un RPG de Game Boy. | Next.js · TypeScript |
+
+<sub>★ misión principal &nbsp;·&nbsp; ◆ misión secundaria &nbsp;·&nbsp; casos de estudio completos en <a href="https://www.axel-diaz.com">axel-diaz.com</a></sub>
+
+### 🎒 Inventario
 
 <p>
-  Desarrollador apasionado por construir productos que combinan buen diseño, código limpio y tecnología de punta.<br/>
-  Me muevo cómodo entre el frontend, el backend e incluso el hardware — si hay un problema interesante, me meto.
+  <img src="https://skillicons.dev/icons?i=rails,ruby,vue,ts,mysql,postgres,redis,docker&perline=8" alt="Rails, Ruby, Vue, TypeScript, MySQL, PostgreSQL, Redis, Docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,swift,electron,rust,linux,git&perline=8" alt="Node.js, Swift, Electron, Rust, Linux, Git" />
 </p>
 
-<a href="https://axel-diaz.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-axel--diaz.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AxelRGDiaz&style=for-the-badge&color=58A6FF&label=VISITAS" />
+- **Diario:** Ruby on Rails, Vue 3, MySQL, Git
+- **Seguido:** Sidekiq + Redis, PostgreSQL, Docker, TypeScript
+- **De vez en cuando:** Node.js, Swift, Electron, Rust
 
-</div>
+### 📜 Bitácora
 
----
+```
+2021 ── Ingeniería en Tecnologías del Internet · Universidad de Colima
+2021 ── Técnico por mi cuenta: reparación, redes y talleres de robótica
+2024 ── Full stack remoto en Mobysuite · Rails, Vue 3, Sidekiq, MySQL
+2026 ── Lanzo Plantelia                                  ◀ partida actual
+```
 
-## 🧠 Tech Stack
+### 💾 Guardar partida
+
+<p>
+  <a href="https://www.axel-diaz.com"><img src="https://img.shields.io/badge/Portafolio-axel--diaz.com-0f380f?style=for-the-badge&labelColor=306230" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/axel-diaz24/"><img src="https://img.shields.io/badge/LinkedIn-axel--diaz24-0f380f?style=for-the-badge&logo=linkedin&logoColor=9bbc0f&labelColor=306230" alt="LinkedIn" /></a>
+  <a href="mailto:axelrgdiaz@gmail.com"><img src="https://img.shields.io/badge/Correo-axelrgdiaz%40gmail.com-0f380f?style=for-the-badge&logo=gmail&logoColor=9bbc0f&labelColor=306230" alt="Correo" /></a>
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=8" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ruby,rails,arduino,linux&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=8" />
-</div>
-
----
-
-## 🚀 Proyectos destacados
-
-<div align="center">
-  <a href="https://github.com/AxelRGDiaz/axelDiaz-webSite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelRGDiaz&repo=axelDiaz-webSite&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AxelRGDiaz/Monitoreo-Ambiental-con-IoT-y-MongoDB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelRGDiaz&repo=Monitoreo-Ambiental-con-IoT-y-MongoDB&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/AxelRGDiaz/chat-socket.io-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelRGDiaz&repo=chat-socket.io-React&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AxelRGDiaz/QR-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelRGDiaz&repo=QR-Generator&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-</div>
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxelRGDiaz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelRGDiaz&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelRGDiaz&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" />
-</div>
-
----
-
-## 📫 Encuéntrame
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/axel-diaz24/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/axelrgdiaz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/axel.diazrg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitch.tv/clatua" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://axel-diaz.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AxelRGDiaz/AxelRGDiaz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AxelRGDiaz/AxelRGDiaz/output/snake.svg" alt="Serpiente comiéndose mis contribuciones" width="100%" />
 </div>
